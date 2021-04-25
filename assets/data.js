@@ -1,7 +1,7 @@
 const packages = [
   {
     id: 'recZkNf2kwmdBcqd0',
-    name: 'Hawaii Package',
+    name: 'San Jose Package',
     price: 25999,
     image:
       'https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160',
