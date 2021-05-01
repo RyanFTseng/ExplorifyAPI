@@ -53,7 +53,7 @@ const packages = [
     id: 'recoM2MyHJGHLVi5l',
     name: 'Osaka',
     price: 4099,
-    image: 'https://imgur.com/70ztppu',
+    image: 'https://i.imgur.com/70ztppu.png',
     colors: ['#000'],
     company: 'liddy',
     description:
