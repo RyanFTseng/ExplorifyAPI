@@ -1,7 +1,7 @@
 const packages = [
   {
     id: 'recZkNf2kwmdBcqd0',
-    name: 'San Jose Package',
+    name: 'Singapore Package',
     price: 25999,
     image:
       'https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160',
@@ -26,7 +26,7 @@ const packages = [
   },
   {
     id: 'rec5NBwZ5zCD9nfF0',
-    name: 'Italy Package',
+    name: 'Seoul Package',
     price: 309999,
     image:
       'https://dl.airtable.com/.attachmentThumbnails/7478483f40a2f56662a87b304bd4e104/707d397f',
@@ -38,7 +38,7 @@ const packages = [
   },
   {
     id: 'recd1jIVIEChmiwhe',
-    name: 'Disneyland Package',
+    name: 'Disneyland, California Package',
     price: 12599,
     image:
       'https://dl.airtable.com/.attachmentThumbnails/530c07c5ade5acd9934c8dd334458b86/cf91397f',
@@ -51,7 +51,7 @@ const packages = [
   },
   {
     id: 'recoM2MyHJGHLVi5l',
-    name: 'Japan Package',
+    name: 'Osaka Package',
     price: 4099,
     image:
       'https://dl.airtable.com/.attachmentThumbnails/a6119fabf7256049cc0e8dbcdf536c9c/b0153f66',
@@ -77,7 +77,7 @@ const packages = [
   },
   {
     id: 'rec1Ntk7siEEW9ha1',
-    name: 'New York Package',
+    name: 'New York City Package',
     price: 23999,
     image:
       'https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b',
@@ -90,7 +90,7 @@ const packages = [
   },
   {
     id: 'recNZ0koOqEmilmoz',
-    name: 'Spain Package',
+    name: 'Barcelona Package',
     price: 59999,
     image:
       'https://dl.airtable.com/.attachmentThumbnails/65708b701baa3a84883ad48301624b44/2de058af',
@@ -104,7 +104,7 @@ const packages = [
   },
   {
     id: 'recrfxv3EwpvJwvjq',
-    name: 'England Package',
+    name: 'London Package',
     price: 39999,
     image:
       'https://dl.airtable.com/.attachmentThumbnails/1af97a4d3eb28563962d8e3520727ffc/1b9cc17f',
