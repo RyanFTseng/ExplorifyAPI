@@ -1,10 +1,10 @@
 const packages = [
   {
     id: 'recZkNf2kwmdBcqd0',
-    name: 'Singapore Package',
+    name: 'Singapore',
     price: 25999,
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/e8bc3791196535af65f40e36993b9e1f/438bd160',
+      'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=949&q=80',
     colors: ['#ff0000', '#00ff00', '#0000ff'],
     company: 'marcos',
     description:
@@ -14,10 +14,10 @@ const packages = [
   },
   {
     id: 'recEHmzvupvT8ZONH',
-    name: 'Paris Package',
+    name: 'Paris',
     price: 109999,
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/0be1af59cf889899b5c9abb1e4db38a4/d631ac52',
+      'https://images.unsplash.com/photo-1431274172761-fca41d930114?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
     colors: ['#000', '#ffb900'],
     company: 'liddy',
     description:
@@ -26,10 +26,10 @@ const packages = [
   },
   {
     id: 'rec5NBwZ5zCD9nfF0',
-    name: 'Seoul Package',
+    name: 'Seoul',
     price: 309999,
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/7478483f40a2f56662a87b304bd4e104/707d397f',
+      'https://images.unsplash.com/photo-1533637322518-7aadda74ddc0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=619&q=80',
     colors: ['#ffb900', '#0000ff'],
     company: 'liddy',
     description:
@@ -38,10 +38,10 @@ const packages = [
   },
   {
     id: 'recd1jIVIEChmiwhe',
-    name: 'Disneyland, California Package',
+    name: 'Disneyland California',
     price: 12599,
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/530c07c5ade5acd9934c8dd334458b86/cf91397f',
+      'https://images.unsplash.com/photo-1590144662036-33bf0ebd2c7f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80',
     colors: ['#000', '#00ff00', '#0000ff'],
     company: 'marcos',
     description:
@@ -51,10 +51,9 @@ const packages = [
   },
   {
     id: 'recoM2MyHJGHLVi5l',
-    name: 'Osaka Package',
+    name: 'Osaka',
     price: 4099,
-    image:
-      'https://dl.airtable.com/.attachmentThumbnails/a6119fabf7256049cc0e8dbcdf536c9c/b0153f66',
+    image: 'https://imgur.com/70ztppu',
     colors: ['#000'],
     company: 'liddy',
     description:
@@ -64,10 +63,10 @@ const packages = [
   },
   {
     id: 'recotY5Nh00DQFdkm',
-    name: 'Rome Package',
+    name: 'Rome',
     price: 42999,
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/7a38cf782907773d9900165530cfa583/d9f41960',
+      'https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=986&q=80',
     colors: ['#00ff00', '#0000ff', '#ff0000'],
     company: 'ikea',
     description:
@@ -77,10 +76,10 @@ const packages = [
   },
   {
     id: 'rec1Ntk7siEEW9ha1',
-    name: 'New York City Package',
+    name: 'New York City',
     price: 23999,
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/0446e84c5bca9643de3452a61b2d6195/1b32f48b',
+      'https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
     colors: ['#0000ff', '#000'],
     company: 'ikea',
     description:
@@ -90,10 +89,10 @@ const packages = [
   },
   {
     id: 'recNZ0koOqEmilmoz',
-    name: 'Barcelona Package',
+    name: 'Barcelona',
     price: 59999,
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/65708b701baa3a84883ad48301624b44/2de058af',
+      'https://images.unsplash.com/photo-1511527661048-7fe73d85e9a4?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80',
     featured: true,
     colors: ['#000', '#ff0000'],
     company: 'caressa',
@@ -104,10 +103,10 @@ const packages = [
   },
   {
     id: 'recrfxv3EwpvJwvjq',
-    name: 'London Package',
+    name: 'London',
     price: 39999,
     image:
-      'https://dl.airtable.com/.attachmentThumbnails/1af97a4d3eb28563962d8e3520727ffc/1b9cc17f',
+      'https://images.unsplash.com/photo-1505761671935-60b3a7427bad?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
     featured: true,
     colors: ['#000', '#00ff00'],
     company: 'ikea',
