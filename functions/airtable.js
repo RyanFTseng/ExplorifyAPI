@@ -10,9 +10,28 @@ exports.handler = async (event, context, cb) => {
     const { records } = await airtable.list()
     const products = records.map((product) => {
       const { id } = product
-      const { name, image, price } = product.fields
+      const {
+        name,
+        price,
+        image,
+        colors,
+        company,
+        description,
+        category,
+        shipping,
+      } = product.fields
       const url = image[0].url
-      return { id, name, url, price }
+      return {
+        id,
+        name,
+        url,
+        price,
+        colors,
+        company,
+        description,
+        category,
+        shipping,
+      }
     })
     return {
       statusCode: 200,
