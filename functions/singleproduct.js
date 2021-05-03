@@ -20,14 +20,29 @@ exports.handler = async (event, context, cb) => {
         statusCode: 200,
         body: JSON.stringify(product),
       }
-    } catch (error) {}
+    } catch (error) {
+      return {
+        statusCode: 500,
+        body: `Server Error`,
+      }
+    }
+  }
+  try {
+    const { records } = await airtable.list()
+    const products = records.map((product) => {
+      const { id } = product
+      const { name, image, price } = product.fields
+      const url = image[0].url
+      return { id, name, url, price }
+    })
+    return {
+      statusCode: 200,
+      body: JSON.stringify(products),
+    }
+  } catch (error) {
     return {
       statusCode: 500,
       body: 'Server Error',
     }
-  }
-  return {
-    statusCode: 400,
-    body: 'Please provide product id',
   }
 }
