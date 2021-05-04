@@ -12,16 +12,25 @@ exports.handler = async (event, context, cb) => {
       const product = await airtable.retrieve(id)
       if (product.error) {
         return {
+          headers: {
+            'Access-Control-Allow-Origin': '*',
+          },
           statusCode: 404,
           body: `No product with id: ${id}`,
         }
       }
       return {
+        headers: {
+          'Access-Control-Allow-Origin': '*',
+        },
         statusCode: 200,
         body: JSON.stringify(product),
       }
     } catch (error) {
       return {
+        headers: {
+          'Access-Control-Allow-Origin': '*',
+        },
         statusCode: 500,
         body: `Server Error`,
       }
@@ -41,6 +50,9 @@ exports.handler = async (event, context, cb) => {
     }
   } catch (error) {
     return {
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+      },
       statusCode: 500,
       body: 'Server Error',
     }

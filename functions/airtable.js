@@ -35,11 +35,17 @@ exports.handler = async (event, context, cb) => {
       }
     })
     return {
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+      },
       statusCode: 200,
       body: JSON.stringify(products),
     }
   } catch (error) {
     return {
+      headers: {
+        'Access-Control-Allow-Origin': '*',
+      },
       statusCode: 500,
       body: 'Server Error',
     }
