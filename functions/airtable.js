@@ -23,6 +23,9 @@ exports.handler = async (event, context, cb) => {
       const image = images[0].url
 
       return {
+        headers: {
+          'Access-Control-Allow-Origin': '*',
+        },
         id,
         name,
         price,
