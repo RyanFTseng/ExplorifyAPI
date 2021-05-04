@@ -13,6 +13,7 @@ exports.handler = async (event, context, cb) => {
       const {
         name,
         price,
+        featured,
         images,
         colors,
         company,
@@ -26,6 +27,7 @@ exports.handler = async (event, context, cb) => {
         id,
         name,
         price,
+        featured,
         image,
         colors,
         company,
