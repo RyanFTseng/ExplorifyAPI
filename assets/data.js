@@ -7,7 +7,7 @@ const packages = [
       'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=949&q=80',
     colors: ['#ff0000', '#00ff00', '#0000ff'],
     company: 'marcos',
-    description: 'visit singapore',
+    description: 'Besides an array of attractions, the Lion City is home to a whole host of hidden gems, tranquil spots and amazing green spaces for moments to slow down, unwind and get a dose of sunshine to uplift your spirits for the day.',
     category: 'office',
     shipping: true,
   },
@@ -20,7 +20,7 @@ const packages = [
     colors: ['#000', '#ffb900'],
     company: 'liddy',
     description:
-      'Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge',
+      "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré.",
     category: ' Package',
   },
   {
@@ -32,7 +32,7 @@ const packages = [
     colors: ['#ffb900', '#0000ff'],
     company: 'liddy',
     description:
-      'Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge',
+      'Seoul, the capital of South Korea, is a huge metropolis where modern skyscrapers, high-tech subways and pop culture meet Buddhist temples, palaces and street markets. Notable attractions include futuristic Dongdaemun Design Plaza, a convention hall with curving architecture and a rooftop park; Gyeongbokgung Palace, which once had more than 7,000 rooms; and Jogyesa Temple, site of ancient locust and pine trees.',
     category: 'kitchen',
   },
   {
@@ -44,7 +44,7 @@ const packages = [
     colors: ['#000', '#00ff00', '#0000ff'],
     company: 'marcos',
     description:
-      'Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge',
+      'Around 15 million people a year visit Disneyland® Resort in Anaheim. It’s home to Disneyland® Park, which offers eight themed lands: Adventureland®, Critter Country, Fantasyland®, Frontierland®, Main Street, U.S.A.®, Mickey’s Toontown® Fair, New Orleans Square and Tomorrowland®.',
     category: 'bedroom',
     shipping: true,
   },
@@ -56,7 +56,7 @@ const packages = [
     colors: ['#000'],
     company: 'liddy',
     description:
-      'Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge',
+      "Osaka (大阪, Ōsaka) is Japan's second largest metropolitan area after Tokyo. It has been the economic powerhouse of the Kansai Region for many centuries. Osaka was formerly known as Naniwa. Before the Nara Period, when the capital used to be moved with the reign of each new emperor, Naniwa was once Japan's capital city, the first one ever known.",
     category: 'dining',
     shipping: true,
   },
@@ -69,7 +69,7 @@ const packages = [
     colors: ['#00ff00', '#0000ff', '#ff0000'],
     company: 'ikea',
     description:
-      'Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge',
+      "Rome is the capital city and a special comune of Italy, as well as the capital of the Lazio region. The city has been a major human settlement for almost three millennia. With 2,860,009 residents in 1,285 km², it is also the country's most populated comune.",
     category: 'dining',
     shipping: true,
   },
@@ -82,7 +82,7 @@ const packages = [
     colors: ['#0000ff', '#000'],
     company: 'ikea',
     description:
-      'Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge',
+      "New York is a city that's always celebrating something, and summer is one of the best times to visit. Outdoor concert season is in full swing. Free movies and theatrical performances fill the city's parks, street vendors are everywhere, and street fairs abound.",
     category: 'bedroom',
     shipping: true,
   },
@@ -96,7 +96,7 @@ const packages = [
     colors: ['#000', '#ff0000'],
     company: 'caressa',
     description:
-      'Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge',
+      "Barcelona, the cosmopolitan capital of Spain’s Catalonia region, is known for its art and architecture. The fantastical Sagrada Família church and other modernist landmarks designed by Antoni Gaudí dot the city. Museu Picasso and Fundació Joan Miró feature modern art by their namesakes. City history museum MUHBA, includes several Roman archaeological sites.",
     category: 'living room',
     shipping: true,
   },
@@ -110,7 +110,7 @@ const packages = [
     colors: ['#000', '#00ff00'],
     company: 'ikea',
     description:
-      'Cloud bread VHS hell of banjo bicycle rights jianbing umami mumblecore etsy 8-bit pok pok +1 wolf. Vexillologist yr dreamcatcher waistcoat, authentic chillwave trust fund. Viral typewriter fingerstache pinterest pork belly narwhal. Schlitz venmo everyday carry kitsch pitchfork chillwave iPhone taiyaki trust fund hashtag kinfolk microdosing gochujang live-edge',
+      'London is the capital and largest city of England and the United Kingdom. The city stands on the River Thames in the south-east of England, at the head of its 50-mile (80 km) estuary leading to the North Sea.',
     category: 'office',
     shipping: true,
   },
