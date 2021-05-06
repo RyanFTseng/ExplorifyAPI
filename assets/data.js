@@ -2,7 +2,7 @@ const packages = [
   {
     id: 'rec31Dj4hN7z95gu1',
     name: 'Singapore',
-    price: 499999,
+    price: 399999,
     image:
       'https://images.unsplash.com/photo-1525625293386-3f8f99389edd?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=949&q=80',
     colors: ['#ff0000', '#00ff00', '#0000ff'],
@@ -26,7 +26,7 @@ const packages = [
   {
     id: 'recYk7UD200FkJExQ',
     name: 'Seoul',
-    price: 750099,
+    price: 749999,
     image:
       'https://images.unsplash.com/photo-1533637322518-7aadda74ddc0?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=619&q=80',
     colors: ['#ffb900', '#0000ff'],
@@ -38,7 +38,7 @@ const packages = [
   {
     id: 'recIVa46jLV4vWr02',
     name: 'Disneyland California',
-    price: 200099,
+    price: 149999,
     image:
       'https://images.unsplash.com/photo-1590144662036-33bf0ebd2c7f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=967&q=80',
     colors: ['#000', '#00ff00', '#0000ff'],
@@ -63,7 +63,7 @@ const packages = [
   {
     id: 'recQB2kbaPgCC7HKr',
     name: 'Rome',
-    price: 500099,
+    price: 499999,
     image:
       'https://images.unsplash.com/photo-1552832230-c0197dd311b5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=986&q=80',
     colors: ['#00ff00', '#0000ff', '#ff0000'],
@@ -76,7 +76,7 @@ const packages = [
   {
     id: 'recuAXZ8gHKj0Rv3d',
     name: 'New York City',
-    price: 240099,
+    price: 249999,
     image:
       'https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80',
     colors: ['#0000ff', '#000'],
