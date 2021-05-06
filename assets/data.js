@@ -22,6 +22,7 @@ const packages = [
     description:
       "Paris, France's capital, is a major European city and a global center for art, fashion, gastronomy and culture. Its 19th-century cityscape is crisscrossed by wide boulevards and the River Seine. Beyond such landmarks as the Eiffel Tower and the 12th-century, Gothic Notre-Dame cathedral, the city is known for its cafe culture and designer boutiques along the Rue du Faubourg Saint-Honoré.",
     category: ' Package',
+    shipping: true,
   },
   {
     id: 'recYk7UD200FkJExQ',
@@ -34,6 +35,7 @@ const packages = [
     description:
       'Seoul, the capital of South Korea, is a huge metropolis where modern skyscrapers, high-tech subways and pop culture meet Buddhist temples, palaces and street markets. Notable attractions include futuristic Dongdaemun Design Plaza, a convention hall with curving architecture and a rooftop park; Gyeongbokgung Palace, which once had more than 7,000 rooms; and Jogyesa Temple, site of ancient locust and pine trees.',
     category: 'kitchen',
+    shipping: true,
   },
   {
     id: 'recIVa46jLV4vWr02',
